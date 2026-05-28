@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomake-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tomake, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomake-vol-2/) |
+| **Get License** | [Commercial Licensing for Tomake, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomake-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজছি তোমায় কোথায় তোমার ছায়া,
+> বুকের ভেতর জ্বলছে আগুন বাড়ছে কেবল মায়া।
+> অচিন দেশে হারিয়ে যাওয়ার স্বপ্ন দেখি রোজ,
+> পাগল এই মন শুধু যে নিচ্ছে তোমার খোঁজ।.. তোমার খোঁজ..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
